@@ -676,7 +676,7 @@ section,
 }
 
 .hero {
-  background-image: url("/assets/img/hero3.png");
+  background-image: url("/assets/img/hero3.png") - !important;
   background-repeat: no-repeat;
   background-position: center top;
   background-size: auto;
